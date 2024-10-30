@@ -15,7 +15,7 @@
     "sponsor"
   ],
   "author": "Timothy Lim",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/timothyylim/npm-sponsor/issues"
   },
